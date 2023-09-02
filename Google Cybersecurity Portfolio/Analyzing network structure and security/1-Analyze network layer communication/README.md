@@ -4,7 +4,7 @@ As a cybersecurity analyst at a prominent IT consultancy firm, I was tasked with
 
 **Project Scope:**
 
-**The project encompassed the following key activities:**
+The project encompassed the following key activities:
 
 **Incident Analysis:** I initiated the project by replicating the reported issue, visiting the website myself, and encountering the "destination port unreachable" error.
 
