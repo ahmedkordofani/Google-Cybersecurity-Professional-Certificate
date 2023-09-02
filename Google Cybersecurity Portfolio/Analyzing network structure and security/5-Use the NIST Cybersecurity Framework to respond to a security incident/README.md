@@ -1,5 +1,3 @@
-**Project Title:** DDoS Attack Mitigation and Network Security Enhancement
-
 **Project Description:**
 
 This project focuses on my role as a cybersecurity analyst within a multimedia company providing web design, graphic design, and social media marketing solutions to small businesses. The company recently experienced a disruptive Distributed Denial of Service (DDoS) attack that compromised the internal network for a significant duration. This project aims to create a comprehensive cybersecurity plan following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) to improve the company's network security.
