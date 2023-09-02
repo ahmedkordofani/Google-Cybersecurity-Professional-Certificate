@@ -26,12 +26,12 @@ The project encompassed the following key activities:
 
 This project had a significant impact on the organization's cybersecurity posture and incident response capabilities:
 
-Timely Incident Mitigation: Swiftly taking the web server offline helped minimize the impact of the DDoS attack on our operations.
+**Timely Incident Mitigation:** Swiftly taking the web server offline helped minimize the impact of the DDoS attack on our operations.
 
-Improved Network Security: Configuring the firewall to block the attacker's IP address demonstrated proactive security measures.
+**Improved Network Security:** Configuring the firewall to block the attacker's IP address demonstrated proactive security measures.
 
-Detailed Incident Documentation: The incident report provided a clear account of the attack and the response actions, facilitating communication with management and stakeholders.
+**Detailed Incident Documentation:** The incident report provided a clear account of the attack and the response actions, facilitating communication with management and stakeholders.
 
-Future Attack Prevention: Recommendations in the report outlined strategies to enhance DDoS attack resilience and bolster overall network security.
+**Future Attack Prevention:** Recommendations in the report outlined strategies to enhance DDoS attack resilience and bolster overall network security.
 
 This project exemplifies my ability to handle critical incidents, respond to immediate threats, and formulate comprehensive strategies to safeguard an organization's digital assets. In my GitHub portfolio, you will find the incident report and recommendations, showcasing my dedication to maintaining network security in dynamic real-world scenarios.
