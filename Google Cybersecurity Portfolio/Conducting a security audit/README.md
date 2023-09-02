@@ -8,7 +8,9 @@ In this comprehensive cybersecurity project, I had the privilege of conducting a
 
 The project began by collaborating with the IT manager to establish a clear scope and goals:
 
-**Scope:** The audit covered Botium Toys' entire IT infrastructure, including physical and digital assets, online operations, payment processing, and compliance with EU regulations.
+**Scope:** 
+
+The audit covered Botium Toys' entire IT infrastructure, including physical and digital assets, online operations, payment processing, and compliance with EU regulations.
 
 **Goals:**
 
