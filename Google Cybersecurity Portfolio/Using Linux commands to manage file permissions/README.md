@@ -4,7 +4,7 @@ As a cybersecurity professional within a prominent organization, my responsibili
 
 **Project Scope:**
 
-**The project's primary objectives were as follows:**
+The project's primary objectives were as follows:
 
 **File System Permission Review:** I initiated the project by comprehensively reviewing existing file system permissions. This entailed analyzing access rights, ownership, and group permissions for critical files and directories.
 
@@ -20,12 +20,12 @@ As a cybersecurity professional within a prominent organization, my responsibili
 
 This project had a profound impact on the security and efficiency of the organization's research team. By aligning file system permissions with the precise authorization requirements, the project achieved the following outcomes:
 
-Enhanced Data Security: Unauthorized access was eliminated, minimizing the risk of data breaches and unauthorized data tampering.
+**Enhanced Data Security:** Unauthorized access was eliminated, minimizing the risk of data breaches and unauthorized data tampering.
 
-Improved Workflow: Users within the research team experienced improved efficiency as they were granted access only to the resources relevant to their roles.
+**Improved Workflow:** Users within the research team experienced improved efficiency as they were granted access only to the resources relevant to their roles.
 
-Compliance Assurance: The project ensured that the organization remained compliant with industry standards and data protection regulations.
+**Compliance Assurance:** The project ensured that the organization remained compliant with industry standards and data protection regulations.
 
-Documentation for Future Reference: The comprehensive documentation of permissions adjustments serves as a valuable resource for tracking changes and responding to future authorization requirements.
+**Documentation for Future Reference:** The comprehensive documentation of permissions adjustments serves as a valuable resource for tracking changes and responding to future authorization requirements.
 
 In my GitHub portfolio, you will find detailed documentation of this project, including screenshots, commands used, and explanations. These materials showcase my proficiency in file system permissions management, my dedication to data security, and my commitment to maintaining a secure digital environment for the organization's research endeavors.
