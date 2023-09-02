@@ -1,3 +1,5 @@
+**Project Description:**
+
 Throughout this cybersecurity project, I demonstrated my proficiency in SQL query composition and filtering techniques by using SQL queries to extract, filter, and analyze data from the organization's databases. Here are some examples of how I applied filters to SQL queries to investigate potential security issues effectively:
 
 **Filtering Employee Records:**
@@ -51,7 +53,7 @@ WHERE employee_id IS NULL;
 
 This query utilizes the IS NULL filter to isolate login attempts with missing employee IDs, which may suggest unauthorized access or data anomalies.
 
-**Project Documentation:**
+**Project Impact:**
 
 These examples, along with others, are meticulously documented in my GitHub portfolio, complete with SQL queries, explanations, and accompanying screenshots. This documentation illustrates my ability to effectively apply filters to SQL queries to extract and analyze data, ultimately contributing to a thorough investigation of potential security issues. These skills are crucial in maintaining a secure digital environment for our organization
 
