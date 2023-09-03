@@ -4,7 +4,7 @@ In my role as a cybersecurity analyst at an e-commerce company, I undertook a cr
 
 **Project Scope:**
 
-**The project's primary objectives and scope were as follows:**
+The project's primary objectives and scope were as follows:
 
 **Vulnerability Assessment:** I conducted an in-depth examination of the open remote database server to identify potential vulnerabilities. This involved assessing the configuration, access controls, and any existing security weaknesses.
 
